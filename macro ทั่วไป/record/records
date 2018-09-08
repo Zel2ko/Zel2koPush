@@ -1,0 +1,67 @@
+{
+    "0278d9b90ba24bb4860969b208f3e86b": {
+        "name": "ฟามนมกล้วย",
+        "new": "false",
+        "playSet": {
+            "accelerator": "1",
+            "interval": "120",
+            "mode": "1",
+            "playSeconds": "0#0#0",
+            "repeatTimes": "1"
+        },
+        "priority": "3",
+        "time": "1532789660"
+    },
+    "74be70e5c8fb44af9ff7b75d168c0d69": {
+        "name": "เปิดกล่อง",
+        "new": "false",
+        "playSet": {
+            "accelerator": "1",
+            "interval": "0",
+            "mode": "0",
+            "playSeconds": "0#0#0",
+            "repeatTimes": "21"
+        },
+        "priority": "1",
+        "time": "1533728121"
+    },
+    "cc8bb6e4b1ae48f096385286151df36c": {
+        "name": "โซล",
+        "new": "false",
+        "playSet": {
+            "accelerator": "1",
+            "interval": "0",
+            "mode": "1",
+            "playSeconds": "0#0#0",
+            "repeatTimes": "20"
+        },
+        "priority": "4",
+        "time": "1532528265"
+    },
+    "f08f708a9c4548fc958cf44b79d80eef": {
+        "name": "ฟามแอปเปิ้ล",
+        "new": "false",
+        "playSet": {
+            "accelerator": "1",
+            "interval": "25",
+            "mode": "1",
+            "playSeconds": "0#0#0",
+            "repeatTimes": "1"
+        },
+        "priority": "0",
+        "time": "1532940308"
+    },
+    "f1c69467bf094cf2a22e3e6abc5f7c76": {
+        "name": "บันทึกของฉัน4",
+        "new": "false",
+        "playSet": {
+            "accelerator": "1",
+            "interval": "0",
+            "mode": "1",
+            "playSeconds": "0#0#0",
+            "repeatTimes": "1"
+        },
+        "priority": "2",
+        "time": "1533659266"
+    }
+}
